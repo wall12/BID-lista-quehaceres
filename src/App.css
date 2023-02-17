@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+}
+
+*{
+margin: 0px;
+padding: 0px;
+margin: 5px;
+}
+
+
+.addButton{
+  background-color: blue;
+  color: white;
+  border-radius: 5px;
+  margin-left: 5px;
+}
+
+.deleteButton{
+  background-color: red;
+  color: white;
+  border-radius: 5px;
+  margin-left: 5px;
+}
